@@ -1,6 +1,5 @@
 # LEMON NODES DEPLOY BOT
-`git clone https://github.com/username5642.git`
-
+`git clone https://github.com/username5642/LEMON-VPS`
 # CD THE REPO
 `cd LEMON-VPS`
 
