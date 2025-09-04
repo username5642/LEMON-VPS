@@ -16,4 +16,4 @@
 `mv env.properties .env`
 
 # RUN THE BOT
-`python3 bot.py `
+`python3 lemon.py `
